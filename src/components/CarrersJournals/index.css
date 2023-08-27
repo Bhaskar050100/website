@@ -1,0 +1,22 @@
+.career-cont {
+    padding: 20px;
+}
+.inner-cont {
+border: none;
+border-radius: 8px;
+padding: 30px 20px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+}
+.career-button {
+padding: 5px 20px;
+border: none;
+cursor: pointer;
+font-size: 15px;
+margin: 0 auto;
+}
+.btn-outline {
+border: 1px solid;
+}

@@ -1,0 +1,48 @@
+.footer-cont {
+    background-color: #0d2436;
+    color: #6b7e8e;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+.icons-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.icons-cont {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+@media screen and (min-width:768px) {
+    .icons-container {
+        justify-content: start;
+    }
+}
+.icon-cont {
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: #152c3e;
+    margin: 5px;
+}
+.icon {
+    font-size: 20px;
+    margin: 0 3px 3px;
+}
+.foot-para {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.foot-head {
+    color: #5a7184;
+    font-size: 18px;
+    font-weight: bold;
+}
+.line {
+    background-color: white;
+    width: 100%;
+    height: 2px;
+}

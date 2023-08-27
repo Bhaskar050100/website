@@ -1,0 +1,11 @@
+#Conferences {
+    width:90%;
+    margin: 0 auto;
+}
+.conference-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow-x: auto; 
+}
+
